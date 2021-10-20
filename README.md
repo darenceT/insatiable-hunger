@@ -9,7 +9,7 @@ Completed in 1 day on CodeDay Hackathon 6/12/21.
 *CodeDay Award* "0 to 60" award given for well developed product from zero experience 
 
 <pre>
-Team members: 
+<strong>Team members:</strong>
 Darence Thong - Lead and primary programmer using Construct.
 Diva Shah - Game design and assist programmer
 Emily - Assist programmer and assist artist
@@ -18,10 +18,10 @@ Sophy Joasil - Artist and game design
 Jeffrey - Artist
 Emily - Artist and assist programmer
 
-No prior experience with Construct. 
-The artwork is original.
+<strong>No prior experience with Construct.
+The artwork is original.</strong>
 </pre>
-<br><br>
+<br>
 Sound and music:
 
 Background Music - Kevin Macleod at chosic.com
