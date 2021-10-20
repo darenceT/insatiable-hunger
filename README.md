@@ -20,9 +20,6 @@ Emily - Artist and assist programmer
 The artwork is original.</strong>
 </pre>
 <br>
-Sound and music:
-
 Background Music - Kevin Macleod at chosic.com
-
 Sound effects - Breviceps & aji at freesound.org, & Caleb City at myinstants.com
 
