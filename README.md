@@ -2,7 +2,7 @@
 
 Completed in 1 day on CodeDay Hackathon 6/12/21.
 
-[Play game here](https://www.construct.net/en/free-online-games/insatiable-hunger-28388/play)
+[<strong>Play game our here</strong>](https://www.construct.net/en/free-online-games/insatiable-hunger-28388/play)
 
 *CodeDay Award* <strong>"0 to 60"</strong> award given for well developed product from zero experience 
 
@@ -20,8 +20,7 @@ Emily - Artist and assist programmer
 The artwork is original.</strong>
 </pre>
 <br>
-Background Music - Kevin Macleod at chosic.com
-
+Background Music - Kevin Macleod at chosic.com<br>
 Sound effects - 
 
 Breviceps & aji at freesound.org
