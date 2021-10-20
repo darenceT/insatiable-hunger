@@ -6,7 +6,7 @@ Completed in 1 day on CodeDay Hackathon 6/12/21.
 
 (Play game here)[https://www.construct.net/en/free-online-games/insatiable-hunger-28388/play]
 
-*CodeDay Award* "0 to 60" award given for well developed product from zero experience 
+*CodeDay Award* <strong>"0 to 60"</strong> award given for well developed product from zero experience 
 
 <pre>
 <strong>Team members:</strong>
