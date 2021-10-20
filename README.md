@@ -1,7 +1,5 @@
 # Insatiable Hunger
 
-CodeDay Hackathon
-
 Completed in 1 day on CodeDay Hackathon 6/12/21.
 
 (Play game here)[https://www.construct.net/en/free-online-games/insatiable-hunger-28388/play]
